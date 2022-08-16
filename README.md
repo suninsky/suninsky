@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Hao Pan, a Developer 🚀 from China.
+## Hi, I'm Hao Pan, a Software engineer 🚀 from China.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
